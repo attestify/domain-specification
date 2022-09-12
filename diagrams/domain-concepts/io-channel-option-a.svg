@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="371px" preserveAspectRatio="none" style="width:759px;height:371px;background:#FFFFFF;" version="1.1" viewBox="0 0 759 371" width="759px" zoomAndPan="magnify"><defs/><g><rect height="26.2969" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="336" x="204.5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="326" x="209.5" y="22.9951">Generic Use Case - IO Channel - Option A</text><!--MD5=[4780f6e3728276b240209030cee2867d]
+cluster Usecase--><g id="cluster_Usecase"><path d="M8.5,43.2969 L76.5,43.2969 A3.75,3.75 0 0 1 79,45.7969 L86,65.5938 L749.5,65.5938 A2.5,2.5 0 0 1 752,68.0938 L752,238.7969 A2.5,2.5 0 0 1 749.5,241.2969 L8.5,241.2969 A2.5,2.5 0 0 1 6,238.7969 L6,45.7969 A2.5,2.5 0 0 1 8.5,43.2969 " style="stroke:#000000;stroke-width:1.5;fill:none;"/><line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="6" x2="86" y1="65.5938" y2="65.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="67" x="10" y="58.292">Usecase</text></g><!--MD5=[679a6d879e63f9ddebf26650c33aa70b]
+cluster IO Channel--><g id="cluster_IO Channel"><path d="M220.5,265.2969 L306.5,265.2969 A3.75,3.75 0 0 1 309,267.7969 L316,287.5938 L417.5,287.5938 A2.5,2.5 0 0 1 420,290.0938 L420,361.7969 A2.5,2.5 0 0 1 417.5,364.2969 L220.5,364.2969 A2.5,2.5 0 0 1 218,361.7969 L218,267.7969 A2.5,2.5 0 0 1 220.5,265.2969 " style="stroke:#000000;stroke-width:1.5;fill:none;"/><line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="218" x2="316" y1="287.5938" y2="287.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="85" x="222" y="280.292">IO Channel</text></g><!--MD5=[ce1bfb16a4271aa1101659bc8894af26]
+class Interactor--><g id="elem_Interactor"><rect codeLine="8" fill="#F1F1F1" height="48" id="Interactor" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="98" x="464" y="172.2969"/><ellipse cx="479" cy="188.2969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M481.9688,193.9375 Q481.3906,194.2344 480.75,194.375 Q480.1094,194.5313 479.4063,194.5313 Q476.9063,194.5313 475.5781,192.8906 Q474.2656,191.2344 474.2656,188.1094 Q474.2656,184.9844 475.5781,183.3281 Q476.9063,181.6719 479.4063,181.6719 Q480.1094,181.6719 480.75,181.8281 Q481.4063,181.9844 481.9688,182.2813 L481.9688,185 Q481.3438,184.4219 480.75,184.1563 Q480.1563,183.875 479.5313,183.875 Q478.1875,183.875 477.5,184.9531 Q476.8125,186.0156 476.8125,188.1094 Q476.8125,190.2031 477.5,191.2813 Q478.1875,192.3438 479.5313,192.3438 Q480.1563,192.3438 480.75,192.0781 Q481.3438,191.7969 481.9688,191.2188 L481.9688,193.9375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="66" x="493" y="193.1436">Interactor</text><line style="stroke:#181818;stroke-width:0.5;" x1="465" x2="561" y1="204.2969" y2="204.2969"/><line style="stroke:#181818;stroke-width:0.5;" x1="465" x2="561" y1="212.2969" y2="212.2969"/></g><!--MD5=[16cc17d8d490cd0a6c2c9d6072f6d742]
+class RequestBoundary--><g id="elem_RequestBoundary"><rect codeLine="9" fill="#F1F1F1" height="56.2656" id="RequestBoundary" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="157" x="240.5" y="78.2969"/><ellipse cx="255.5" cy="98.4297" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M251.4219,94.1953 L251.4219,92.0391 L258.8125,92.0391 L258.8125,94.1953 L256.3438,94.1953 L256.3438,102.2734 L258.8125,102.2734 L258.8125,104.4297 L251.4219,104.4297 L251.4219,102.2734 L253.8906,102.2734 L253.8906,94.1953 L251.4219,94.1953 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="76" x="294" y="94.4355">«input port»</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="125" x="269.5" y="110.2607">RequestBoundary</text><line style="stroke:#181818;stroke-width:0.5;" x1="241.5" x2="396.5" y1="118.5625" y2="118.5625"/><line style="stroke:#181818;stroke-width:0.5;" x1="241.5" x2="396.5" y1="126.5625" y2="126.5625"/></g><!--MD5=[81dacc04669b952750265e19bd910e3f]
+class DefaultRequest--><g id="elem_DefaultRequest"><rect codeLine="10" fill="#F1F1F1" height="48" id="DefaultRequest" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="140" x="28" y="87.2969"/><ellipse cx="43" cy="103.2969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M45.9688,108.9375 Q45.3906,109.2344 44.75,109.375 Q44.1094,109.5313 43.4063,109.5313 Q40.9063,109.5313 39.5781,107.8906 Q38.2656,106.2344 38.2656,103.1094 Q38.2656,99.9844 39.5781,98.3281 Q40.9063,96.6719 43.4063,96.6719 Q44.1094,96.6719 44.75,96.8281 Q45.4063,96.9844 45.9688,97.2813 L45.9688,100 Q45.3438,99.4219 44.75,99.1563 Q44.1563,98.875 43.5313,98.875 Q42.1875,98.875 41.5,99.9531 Q40.8125,101.0156 40.8125,103.1094 Q40.8125,105.2031 41.5,106.2813 Q42.1875,107.3438 43.5313,107.3438 Q44.1563,107.3438 44.75,107.0781 Q45.3438,106.7969 45.9688,106.2188 L45.9688,108.9375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="57" y="108.1436">DefaultRequest</text><line style="stroke:#181818;stroke-width:0.5;" x1="29" x2="167" y1="119.2969" y2="119.2969"/><line style="stroke:#181818;stroke-width:0.5;" x1="29" x2="167" y1="127.2969" y2="127.2969"/></g><!--MD5=[90390f5df1c0f21d6da17e2e6ede196c]
+class ResponseBoundary--><g id="elem_ResponseBoundary"><rect codeLine="11" fill="#F1F1F1" height="56.2656" id="ResponseBoundary" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="168" x="235" y="169.2969"/><ellipse cx="250" cy="189.4297" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M245.9219,185.1953 L245.9219,183.0391 L253.3125,183.0391 L253.3125,185.1953 L250.8438,185.1953 L250.8438,193.2734 L253.3125,193.2734 L253.3125,195.4297 L245.9219,195.4297 L245.9219,193.2734 L248.3906,193.2734 L248.3906,185.1953 L245.9219,185.1953 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="76" x="294" y="185.4355">«input port»</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="136" x="264" y="201.2607">ResponseBoundary</text><line style="stroke:#181818;stroke-width:0.5;" x1="236" x2="402" y1="209.5625" y2="209.5625"/><line style="stroke:#181818;stroke-width:0.5;" x1="236" x2="402" y1="217.5625" y2="217.5625"/></g><!--MD5=[ca0d4ccdefa67d1d2f5ece268e4c0cf4]
+class DefaultResponse--><g id="elem_DefaultResponse"><rect codeLine="12" fill="#F1F1F1" height="48" id="DefaultResponse" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="152" x="22" y="175.2969"/><ellipse cx="37" cy="191.2969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M39.9688,196.9375 Q39.3906,197.2344 38.75,197.375 Q38.1094,197.5313 37.4063,197.5313 Q34.9063,197.5313 33.5781,195.8906 Q32.2656,194.2344 32.2656,191.1094 Q32.2656,187.9844 33.5781,186.3281 Q34.9063,184.6719 37.4063,184.6719 Q38.1094,184.6719 38.75,184.8281 Q39.4063,184.9844 39.9688,185.2813 L39.9688,188 Q39.3438,187.4219 38.75,187.1563 Q38.1563,186.875 37.5313,186.875 Q36.1875,186.875 35.5,187.9531 Q34.8125,189.0156 34.8125,191.1094 Q34.8125,193.2031 35.5,194.2813 Q36.1875,195.3438 37.5313,195.3438 Q38.1563,195.3438 38.75,195.0781 Q39.3438,194.7969 39.9688,194.2188 L39.9688,196.9375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="51" y="196.1436">DefaultResponse</text><line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="173" y1="207.2969" y2="207.2969"/><line style="stroke:#181818;stroke-width:0.5;" x1="23" x2="173" y1="215.2969" y2="215.2969"/></g><!--MD5=[6de492f04047ff8a778df2bea690e363]
+class Gateway--><g id="elem_Gateway"><rect codeLine="13" fill="#F1F1F1" height="56.2656" id="Gateway" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="114" x="622" y="167.2969"/><ellipse cx="637" cy="187.4297" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M632.9219,183.1953 L632.9219,181.0391 L640.3125,181.0391 L640.3125,183.1953 L637.8438,183.1953 L637.8438,191.2734 L640.3125,191.2734 L640.3125,193.4297 L632.9219,193.4297 L632.9219,191.2734 L635.3906,191.2734 L635.3906,183.1953 L632.9219,183.1953 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="86" x="649" y="183.4355">«output port»</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="60" x="662" y="199.2607">Gateway</text><line style="stroke:#181818;stroke-width:0.5;" x1="623" x2="735" y1="207.5625" y2="207.5625"/><line style="stroke:#181818;stroke-width:0.5;" x1="623" x2="735" y1="215.5625" y2="215.5625"/></g><!--MD5=[04603b7205ba5b24ca6085c5502b46b5]
+class IOChannelController--><g id="elem_IOChannelController"><rect codeLine="10" fill="#F1F1F1" height="48" id="IOChannelController" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="170" x="234" y="300.2969"/><ellipse cx="249" cy="316.2969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M251.9688,321.9375 Q251.3906,322.2344 250.75,322.375 Q250.1094,322.5313 249.4063,322.5313 Q246.9063,322.5313 245.5781,320.8906 Q244.2656,319.2344 244.2656,316.1094 Q244.2656,312.9844 245.5781,311.3281 Q246.9063,309.6719 249.4063,309.6719 Q250.1094,309.6719 250.75,309.8281 Q251.4063,309.9844 251.9688,310.2813 L251.9688,313 Q251.3438,312.4219 250.75,312.1563 Q250.1563,311.875 249.5313,311.875 Q248.1875,311.875 247.5,312.9531 Q246.8125,314.0156 246.8125,316.1094 Q246.8125,318.2031 247.5,319.2813 Q248.1875,320.3438 249.5313,320.3438 Q250.1563,320.3438 250.75,320.0781 Q251.3438,319.7969 251.9688,319.2188 L251.9688,321.9375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="263" y="321.1436">IOChannelController</text><line style="stroke:#181818;stroke-width:0.5;" x1="235" x2="403" y1="332.2969" y2="332.2969"/><line style="stroke:#181818;stroke-width:0.5;" x1="235" x2="403" y1="340.2969" y2="340.2969"/></g><!--MD5=[6e68c68b23282bd35b0817cf099d52dc]
+link Interactor to Kernel--><!--MD5=[a230baa619314952371c893bfe3f3d46]
+link Interactor to Gateway--><g id="link_Interactor_Gateway"><path codeLine="16" d="M562.32,196.0069 C576.79,195.9169 592.95,195.8169 608.5,195.7169 " fill="none" id="Interactor-to-Gateway" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="621.95,195.6369,615.9238,191.6765,609.9503,195.716,615.9765,199.6763,621.95,195.6369" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[18a1f246f05c14c0d386461b74304eac]
+reverse link RequestBoundary to Interactor--><g id="link_RequestBoundary_Interactor"><path codeLine="17" d="M402.12,139.5269 C410.91,143.3769 419.67,147.3469 428,151.2969 C441.45,157.6869 455.83,165.1369 468.81,172.1269 " fill="none" id="RequestBoundary-backto-Interactor" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="390.15,134.3669,394.0726,140.4177,401.1667,139.1241,397.2441,133.0732,390.15,134.3669" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7701ba76062b3249db66cba681ae8165]
+reverse link ResponseBoundary to Interactor--><g id="link_ResponseBoundary_Interactor"><path codeLine="18" d="M416.32,196.7969 C432.84,196.7069 449.36,196.6269 463.9,196.5469 " fill="none" id="ResponseBoundary-backto-Interactor" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="403.1,196.8669,409.1219,200.8338,415.0998,196.8009,409.0779,192.834,403.1,196.8669" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[284f4d959bf891994bbf320200d4f169]
+link DefaultRequest to RequestBoundary--><g id="link_DefaultRequest_RequestBoundary"><path codeLine="20" d="M168.29,109.7169 C184.78,109.3369 202.67,108.9269 220.16,108.5269 " fill="none" id="DefaultRequest-to-RequestBoundary" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="220.25,101.5269,240.4,108.0669,220.57,115.5269,220.25,101.5269" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4417beaa902791d983e443782fa238ea]
+link DefaultResponse to ResponseBoundary--><g id="link_DefaultResponse_ResponseBoundary"><path codeLine="21" d="M174.06,198.6069 C187.05,198.4969 200.76,198.3669 214.35,198.2469 " fill="none" id="DefaultResponse-to-ResponseBoundary" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="214.72,191.2369,234.78,198.0569,214.84,205.2369,214.72,191.2369" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[da6ffb66583e96ef9c1da684f5bf55e2]
+reverse link DefaultRequest to IOChannelController--><g id="link_DefaultRequest_IOChannelController"><path codeLine="11" d="M159.12,143.2669 C164.53,147.5469 169.62,152.2269 174,157.2969 C200.56,188.0269 185.09,209.2169 210,241.2969 C228.35,264.9269 254.93,285.4669 277.13,300.2069 " fill="none" id="DefaultRequest-backto-IOChannelController" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="148.39,135.5369,150.9181,142.2903,158.1244,142.5541,155.5963,135.8007,148.39,135.5369" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8a505e54e0fa1337694e6dcfe153e8c4]
+reverse link DefaultResponse to IOChannelController--><g id="link_DefaultResponse_IOChannelController"><path codeLine="12" d="M152.59,229.8869 C190.56,251.5569 240.8,280.2269 275.9,300.2669 " fill="none" id="DefaultResponse-backto-IOChannelController" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="141.23,223.3969,144.4611,229.8436,151.6546,229.3406,148.4235,222.8939,141.23,223.3969" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[05f52780dee35ab5dc9d687516f9fb9e]
+@startuml name "Generic Use Case - IO Channel - Option A"
+left to right direction
+
+!include generic-use-case.puml
+
+title "Generic Use Case - IO Channel - Option A"
+
+hide Kernel
+
+package "IO Channel" {
+    class IOChannelController
+    DefaultRequest *- - IOChannelController
+    DefaultResponse *- - IOChannelController
+}
+
+@enduml
+
+@startuml name "Generic Use Case - IO Channel - Option A"
+left to right direction
+
+left to right direction
+
+Title "Generic Use Case Structure"
+
+package "Kernel" {}
+
+package "Usecase" {
+    class Interactor {}
+    interface RequestBoundary << input port >> {}
+    class DefaultRequest {}
+    interface ResponseBoundary << input port >> {}
+    class DefaultResponse {}
+    interface Gateway << output port >> {}
+
+    Interactor - -* Kernel
+    Interactor - -o Gateway
+    RequestBoundary o- - Interactor
+    ResponseBoundary o- - Interactor
+
+    DefaultRequest - -|> RequestBoundary  
+    DefaultResponse - -|> ResponseBoundary 
+}
+
+
+title "Generic Use Case - IO Channel - Option A"
+
+hide Kernel
+
+package "IO Channel" {
+    class IOChannelController
+    DefaultRequest *- - IOChannelController
+    DefaultResponse *- - IOChannelController
+}
+
+@enduml
+
+PlantUML version 1.2022.6(Tue Jun 21 17:34:49 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
