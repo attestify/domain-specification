@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# Attestify - Domain Specification
 
-You can use the [editor on GitHub](https://github.com/attestify/domain-specification/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The domain specification defines the interfaces, expected behaviors, and implementations of the aggregated business logic (use cases) for Attestify. This specification is independent of any specific language implementation. It describes how the use cases must operate regardless of the implementing programming language.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Domain Concepts
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+* Boundary Controller Entity patterns
+* Ports & Adapters
 
-```markdown
-Syntax highlighted code block
+[todo]
 
-# Header 1
-## Header 2
-### Header 3
+### Concept - Use Cases
 
-- Bulleted
-- List
+[todo]
 
-1. Numbered
-2. List
+## Generic Use Case 
 
-**Bold** and _Italic_ and `Code` text
+[todo]
 
-[Link](url) and ![Image](src)
-```
+![Domain Name Class Diagram](https://raw.githubusercontent.com/attestify/domain-specification/main/diagrams/domain-concepts/generic-use-case.svg)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## IO Channel
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/attestify/domain-specification/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[todo]
 
-### Support or Contact
+### Option A
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Domain Name Class Diagram](https://raw.githubusercontent.com/attestify/domain-specification/main/diagrams/domain-concepts/io-channel-option-a.svg)
+
+[todo]
+
+### Option B
+
+![Domain Name Class Diagram](https://raw.githubusercontent.com/attestify/domain-specification/main/diagrams/domain-concepts/io-channel-option-b.svg)
+
+[todo]
+
+---
+
+## Attestify Use Cases
+
+[todo]
+
+### Register Public Domain (io.attestify.domain.usecase.register-public-domain)
+
+[todo]

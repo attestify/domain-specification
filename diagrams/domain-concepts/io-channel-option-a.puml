@@ -1,0 +1,16 @@
+@startuml name "Generic Use Case - IO Channel - Option A"
+left to right direction
+
+!include generic-use-case.puml
+
+title "Generic Use Case - IO Channel - Option A"
+
+hide Kernel
+
+package "IO Channel" {
+    class IOChannelController
+    DefaultRequest *-- IOChannelController
+    DefaultResponse *-- IOChannelController
+}
+
+@enduml
