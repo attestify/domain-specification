@@ -1,0 +1,25 @@
+@startuml name "Generic Use Case Structure"
+left to right direction
+
+Title "Generic Use Case Structure"
+
+package "Kernel" {}
+
+package "Usecase" {
+    class Interactor {}
+    interface RequestBoundary << input port >> {}
+    class DefaultRequest {}
+    interface ResponseBoundary << input port >> {}
+    class DefaultResponse {}
+    interface Gateway << output port >> {}
+
+    Interactor --* Kernel
+    Interactor --o Gateway
+    RequestBoundary o-- Interactor
+    ResponseBoundary o-- Interactor
+
+    DefaultRequest --|> RequestBoundary  
+    DefaultResponse --|> ResponseBoundary 
+}
+
+@enduml

@@ -1,0 +1,12 @@
+@startuml name "Generic Use Case - Gateway"
+
+!include generic-use-case.puml
+
+Title "Generic Use Case - Gateway"
+
+package "Gateway Driver" {
+    class DriverImplementation {}
+    Gateway <|-- DriverImplementation
+}
+
+@enduml
