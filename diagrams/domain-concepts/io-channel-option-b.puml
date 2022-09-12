@@ -1,4 +1,4 @@
-@startumlnname "Generic Use Case - IO Channel - Option B"
+@startuml name "Generic Use Case - IO Channel - Option B"
 left to right direction
 
 !include generic-use-case.puml
